@@ -1,9 +1,9 @@
 <h1>RealTime React Chat App</h1>
 
 Tech Stack:
-1.React
-2.Firebase
-3.Socket.io
+1. React
+2. Firebase
+3. Socket.io
 
 Features:
 1. Group Chat
